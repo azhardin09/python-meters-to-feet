@@ -4,6 +4,12 @@ A beginner Python desktop application that converts a value in **meters** to **f
 
 This project was created as part of my hands-on Python learning journey. It helped me practice separating application logic into frontend and backend modules, working with GUI widgets and events, importing modules, converting user input, and packaging a Python application as a standalone Windows executable.
 
+## Application Demo
+
+Below is the working desktop application converting 32 meters to 104.98688 feet.
+
+![Meters-to-Feet Converter Demo](meters-to-feet-demo.png)
+
 ## Features
 
 - Simple desktop GUI
